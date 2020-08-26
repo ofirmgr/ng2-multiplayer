@@ -14,12 +14,12 @@ import { UserService } from './user.service';
 
 
 var config = {
-  apiKey: "AIzaSyD79Rd2fqqNpZ6G2NGlk2A0wnPjA9c6c4c",
-  authDomain: "ng-vikings-a3018.firebaseapp.com",
-  databaseURL: "https://ng-vikings-a3018.firebaseio.com",
-  projectId: "ng-vikings-a3018",
-  storageBucket: "ng-vikings-a3018.appspot.com",
-  messagingSenderId: "415216802192"
+  apiKey: "AIzaSyDHh4vLqkYymd_kar-S_cfuZnaKM_6dzJE",
+  authDomain: "ng2multiplayer.firebaseapp.com",
+  databaseURL: "https://ng2multiplayer.firebaseio.com",
+  projectId: "ng2multiplayer",
+  storageBucket: "ng2multiplayer.appspot.com",
+  messagingSenderId: "885724816796"
 };
 
 const appRoutes: Routes = [
